@@ -7,4 +7,6 @@ and animate colors with javascript.
 
 Technology: PHP, JavaScript, jQuery
 
+Live Example: http://jsfiddle.net/sinanisler/xA7qv/
+
 Enjoy.
